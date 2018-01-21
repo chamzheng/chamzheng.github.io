@@ -22,9 +22,9 @@ customize:
         location: Nanjing, Jiangsu, China
         follow: https://github.com/chamzheng
     highlight: monokai
-    sidebar: right # sidebar position, options: left, right or leave it empty
+    sidebar: # sidebar position, options: left, right or leave it empty
     thumbnail: false # enable posts thumbnail, options: true, false
-    favicon: # path to favicon
+    favicon: images/logo.png # path to favicon
     social_links:
         github: https://github.com/chamzheng
         twitter: https://twitter.com/chamzheng
