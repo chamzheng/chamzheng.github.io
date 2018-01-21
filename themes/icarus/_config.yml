@@ -1,10 +1,12 @@
 # Menus
 menu:
-  Home: .
-  Archives: archives
-  Categories: categories
-  Tags: tags
-  About: about
+  首页: .
+  归档: archives
+  分类: categories
+  标签: tags
+  友链: friends
+  留言: message
+  关于: about
 
 # Customize
 customize:
