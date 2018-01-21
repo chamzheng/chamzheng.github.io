@@ -3,9 +3,9 @@ layout: "page"
 comment: "true"
 ---
 
-本站使用Disqus留言系统，由于被墙，请使用科学上网，吼不吼啊。
+![](http://image.qianlaofei.cn/18-1-22/86837442.jpg)
 
+本站使用Disqus留言系统，由于某些原因可能无法访问，VPS代理的话稍后再研究研究，现在要留言的话请使用科学上网，吼不吼啊。
 
-
-![](http://image.qianlaofei.cn/18-1-22/41817316.jpg)
+欢迎大家留言，我们一同学习、成长；
 
