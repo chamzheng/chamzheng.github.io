@@ -6,7 +6,7 @@
 title: 钱老肥
 subtitle:
 description:
-author: Qianlaofei
+author: 钱老肥
 language: zh-CN
 timezone: Asia/Shanghai
 
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: icarus
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
