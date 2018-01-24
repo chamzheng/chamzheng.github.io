@@ -329,7 +329,7 @@ font:
   enable: true
 
   # Uri of fonts host. E.g. //fonts.googleapis.com (Default).
-  host:
+  host: //fonts.google.com/
 
   # Font options:
   # `external: true` will load this font family from `host` above.
