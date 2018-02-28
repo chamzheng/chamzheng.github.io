@@ -836,7 +836,7 @@ vendors:
 
   # Internal version: 4.6.2
   # See: http://fontawesome.io/
-  fontawesome: https://use.fontawesome.com/releases/v5.0.7/js/all.js
+  fontawesome: https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css
 
   # Internal version: 1
   # https://www.algolia.com
