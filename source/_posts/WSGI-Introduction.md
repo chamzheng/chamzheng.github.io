@@ -44,9 +44,9 @@ print('Serving HTTP on port 8000...')
 httpd.serve_forever()
 ```
 确保以上两个文件在同一个目录下，然后在命令行输入python server.py来启动WSGI服务器：
-![](http://image.qianlaofei.cn/18-2-22/51689383.jpg)
+![](https://cdn.qianlaofei.cn/18-2-22/51689383.jpg)
 并访问
-![](http://image.qianlaofei.cn/18-2-22/86191504.jpg)
+![](https://cdn.qianlaofei.cn/18-2-22/86191504.jpg)
 
 一个简单的WSGI demo就能简单地完成了，但是系统性地使用还用WSGI还是得用框架才能更好的发挥他的作用。
 
