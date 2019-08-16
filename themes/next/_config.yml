@@ -179,7 +179,7 @@ links_layout: block
 #links_layout: inline
 links:
   #Title: http://example.com/
-  Google: https://www.google.com.hk/
+  Yikun: https://yikun.github.io/
 
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
