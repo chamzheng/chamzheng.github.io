@@ -22,7 +22,7 @@
     "hexo-renderer-swig": "^1.1.0",
     "hexo-server": "^0.2.0",
     "keyword-extractor": "0.0.17",
-    "marked": "^0.7.0",
+    "marked": "^4.0.10",
     "underscore.string": "^3.3.5"
   }
 }
