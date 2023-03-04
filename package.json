@@ -19,7 +19,7 @@
     "hexo-renderer-ejs": "^0.2.0",
     "hexo-renderer-marked": "^4.0.0",
     "hexo-renderer-stylus": "^0.3.1",
-    "hexo-renderer-swig": "^1.1.0",
+    "hexo-renderer-swig": "^2.0.0",
     "hexo-server": "^0.2.0",
     "keyword-extractor": "0.0.17",
     "marked": "^0.7.0",
